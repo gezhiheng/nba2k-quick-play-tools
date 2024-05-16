@@ -1,0 +1,3 @@
+provider: generic
+url: https://example.com/auto-updates
+updaterCacheDirName: nba2k-quick-play-tools-updater
